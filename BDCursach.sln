@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDCursach", "BDCursach\BDCursach.csproj", "{4A9C53B8-A82A-4F8B-88E2-93BC33A088BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A9C53B8-A82A-4F8B-88E2-93BC33A088BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9C53B8-A82A-4F8B-88E2-93BC33A088BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9C53B8-A82A-4F8B-88E2-93BC33A088BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9C53B8-A82A-4F8B-88E2-93BC33A088BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD12F50F-27C6-48AF-A8EC-8E4D5783CF16}
+	EndGlobalSection
+EndGlobal

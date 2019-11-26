@@ -8,6 +8,8 @@ namespace BDCursach.Entite
 {
     class MedicineCard
     {
+        int IdMedicineCard {get; set;}
+        IEnumerable<Visit> HystoryVisits {get;set;}
 
     }
 }

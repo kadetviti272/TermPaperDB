@@ -8,5 +8,8 @@ namespace BDCursach.Entite
 {
     class Department
     {
+        int IdDepartment { get; set; }
+        IEnumerable<Staff> Staffs { get; set; }
+
     }
 }
